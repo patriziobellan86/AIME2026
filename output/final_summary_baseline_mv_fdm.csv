@@ -1,0 +1,511 @@
+dataset,model,description-framework,role,n,strict_acc,relaxed_acc
+EDOS,amazon/nova-micro-v1,Cognitive Load Theory,FDM,320,40.00,40.00
+EDOS,amazon/nova-micro-v1,Cognitive Load Theory,MV,320,38.12,38.12
+EDOS,amazon/nova-micro-v1,Dual-Process Theory,FDM,320,41.56,41.56
+EDOS,amazon/nova-micro-v1,Dual-Process Theory,MV,320,40.62,40.62
+EDOS,amazon/nova-micro-v1,Flow Theory,FDM,320,40.31,40.31
+EDOS,amazon/nova-micro-v1,Flow Theory,MV,320,40.31,40.31
+EDOS,amazon/nova-micro-v1,Freudian Psychoanalysis,FDM,320,37.81,37.81
+EDOS,amazon/nova-micro-v1,Freudian Psychoanalysis,MV,320,38.12,38.12
+EDOS,amazon/nova-micro-v1,User Design Persona,FDM,320,40.94,40.94
+EDOS,amazon/nova-micro-v1,User Design Persona,MV,320,38.75,38.75
+EDOS,amazon/nova-micro-v1,User-Centered Design,FDM,320,40.62,40.62
+EDOS,amazon/nova-micro-v1,User-Centered Design,MV,320,39.06,39.06
+EDOS,amazon/nova-micro-v1,baseline,BASELINE,320,36.25,36.25
+EDOS,amazon/nova-micro-v1,no-description,FDM,320,42.19,42.19
+EDOS,amazon/nova-micro-v1,no-description,MV,320,42.19,42.19
+EDOS,amazon/nova-micro-v1,no-personality,FDM,320,39.06,39.06
+EDOS,amazon/nova-micro-v1,no-personality,MV,320,38.44,38.44
+EDOS,google/gemma-3-12b-it,Cognitive Load Theory,FDM,320,45.31,45.31
+EDOS,google/gemma-3-12b-it,Cognitive Load Theory,MV,320,43.44,43.44
+EDOS,google/gemma-3-12b-it,Dual-Process Theory,FDM,320,47.81,47.81
+EDOS,google/gemma-3-12b-it,Dual-Process Theory,MV,320,44.38,44.38
+EDOS,google/gemma-3-12b-it,Flow Theory,FDM,320,41.56,41.56
+EDOS,google/gemma-3-12b-it,Flow Theory,MV,320,45.00,45.00
+EDOS,google/gemma-3-12b-it,Freudian Psychoanalysis,FDM,320,32.50,32.50
+EDOS,google/gemma-3-12b-it,Freudian Psychoanalysis,MV,320,32.19,32.19
+EDOS,google/gemma-3-12b-it,User Design Persona,FDM,320,41.56,41.56
+EDOS,google/gemma-3-12b-it,User Design Persona,MV,320,44.06,44.06
+EDOS,google/gemma-3-12b-it,User-Centered Design,FDM,320,45.00,45.00
+EDOS,google/gemma-3-12b-it,User-Centered Design,MV,320,43.75,43.75
+EDOS,google/gemma-3-12b-it,baseline,BASELINE,320,44.38,44.38
+EDOS,google/gemma-3-12b-it,no-description,FDM,320,49.06,49.06
+EDOS,google/gemma-3-12b-it,no-description,MV,320,48.75,48.75
+EDOS,google/gemma-3-12b-it,no-personality,FDM,320,44.06,44.06
+EDOS,google/gemma-3-12b-it,no-personality,MV,320,43.44,43.44
+EDOS,google/gemma-3-27b-it,Cognitive Load Theory,FDM,320,43.75,43.75
+EDOS,google/gemma-3-27b-it,Cognitive Load Theory,MV,320,41.56,41.56
+EDOS,google/gemma-3-27b-it,Dual-Process Theory,FDM,320,40.94,40.94
+EDOS,google/gemma-3-27b-it,Dual-Process Theory,MV,320,41.88,41.88
+EDOS,google/gemma-3-27b-it,Flow Theory,FDM,320,40.31,40.31
+EDOS,google/gemma-3-27b-it,Flow Theory,MV,320,41.56,41.56
+EDOS,google/gemma-3-27b-it,Freudian Psychoanalysis,FDM,320,31.87,31.87
+EDOS,google/gemma-3-27b-it,Freudian Psychoanalysis,MV,320,33.12,33.12
+EDOS,google/gemma-3-27b-it,User Design Persona,FDM,320,39.38,39.38
+EDOS,google/gemma-3-27b-it,User Design Persona,MV,320,40.62,40.62
+EDOS,google/gemma-3-27b-it,User-Centered Design,FDM,320,42.19,42.19
+EDOS,google/gemma-3-27b-it,User-Centered Design,MV,320,43.12,43.12
+EDOS,google/gemma-3-27b-it,baseline,BASELINE,320,41.88,41.88
+EDOS,google/gemma-3-27b-it,no-description,FDM,320,46.88,46.88
+EDOS,google/gemma-3-27b-it,no-description,MV,320,45.31,45.31
+EDOS,google/gemma-3-27b-it,no-personality,FDM,320,43.12,43.12
+EDOS,google/gemma-3-27b-it,no-personality,MV,320,43.12,43.12
+EDOS,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,FDM,320,47.19,47.19
+EDOS,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,MV,320,45.94,45.94
+EDOS,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,FDM,320,46.56,46.56
+EDOS,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,MV,320,45.94,45.94
+EDOS,meta-llama/llama-3.3-70b-instruct,Flow Theory,FDM,320,46.56,46.56
+EDOS,meta-llama/llama-3.3-70b-instruct,Flow Theory,MV,320,46.56,46.56
+EDOS,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,FDM,320,46.25,46.25
+EDOS,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,MV,320,45.31,45.31
+EDOS,meta-llama/llama-3.3-70b-instruct,User Design Persona,FDM,320,45.62,45.62
+EDOS,meta-llama/llama-3.3-70b-instruct,User Design Persona,MV,320,44.69,44.69
+EDOS,meta-llama/llama-3.3-70b-instruct,User-Centered Design,FDM,320,47.19,47.19
+EDOS,meta-llama/llama-3.3-70b-instruct,User-Centered Design,MV,320,45.62,45.62
+EDOS,meta-llama/llama-3.3-70b-instruct,baseline,BASELINE,320,44.69,44.69
+EDOS,meta-llama/llama-3.3-70b-instruct,no-description,FDM,320,48.12,48.12
+EDOS,meta-llama/llama-3.3-70b-instruct,no-description,MV,320,47.81,47.81
+EDOS,meta-llama/llama-3.3-70b-instruct,no-personality,FDM,320,47.19,47.19
+EDOS,meta-llama/llama-3.3-70b-instruct,no-personality,MV,320,46.56,46.56
+EDOS,meta-llama/llama-4-scout,Cognitive Load Theory,FDM,320,42.81,42.81
+EDOS,meta-llama/llama-4-scout,Cognitive Load Theory,MV,320,43.12,43.12
+EDOS,meta-llama/llama-4-scout,Dual-Process Theory,FDM,320,46.88,46.88
+EDOS,meta-llama/llama-4-scout,Dual-Process Theory,MV,320,47.19,47.19
+EDOS,meta-llama/llama-4-scout,Flow Theory,FDM,320,47.19,47.19
+EDOS,meta-llama/llama-4-scout,Flow Theory,MV,320,44.38,44.38
+EDOS,meta-llama/llama-4-scout,Freudian Psychoanalysis,FDM,320,45.62,45.62
+EDOS,meta-llama/llama-4-scout,Freudian Psychoanalysis,MV,320,43.44,43.44
+EDOS,meta-llama/llama-4-scout,User Design Persona,FDM,320,44.69,44.69
+EDOS,meta-llama/llama-4-scout,User Design Persona,MV,320,43.12,43.12
+EDOS,meta-llama/llama-4-scout,User-Centered Design,FDM,320,46.56,46.56
+EDOS,meta-llama/llama-4-scout,User-Centered Design,MV,320,44.06,44.06
+EDOS,meta-llama/llama-4-scout,baseline,BASELINE,320,32.50,38.12
+EDOS,meta-llama/llama-4-scout,no-description,FDM,320,44.06,44.06
+EDOS,meta-llama/llama-4-scout,no-description,MV,320,44.06,44.06
+EDOS,meta-llama/llama-4-scout,no-personality,FDM,320,46.25,46.25
+EDOS,meta-llama/llama-4-scout,no-personality,MV,320,44.38,44.38
+IEMPATHIZE,amazon/nova-micro-v1,Cognitive Load Theory,FDM,120,60.00,60.00
+IEMPATHIZE,amazon/nova-micro-v1,Cognitive Load Theory,MV,120,59.17,59.17
+IEMPATHIZE,amazon/nova-micro-v1,Dual-Process Theory,FDM,120,60.83,60.83
+IEMPATHIZE,amazon/nova-micro-v1,Dual-Process Theory,MV,120,60.00,60.00
+IEMPATHIZE,amazon/nova-micro-v1,Flow Theory,FDM,120,62.50,62.50
+IEMPATHIZE,amazon/nova-micro-v1,Flow Theory,MV,120,60.83,60.83
+IEMPATHIZE,amazon/nova-micro-v1,Freudian Psychoanalysis,FDM,120,65.83,65.83
+IEMPATHIZE,amazon/nova-micro-v1,Freudian Psychoanalysis,MV,120,64.17,64.17
+IEMPATHIZE,amazon/nova-micro-v1,User Design Persona,FDM,120,64.17,64.17
+IEMPATHIZE,amazon/nova-micro-v1,User Design Persona,MV,120,65.00,65.00
+IEMPATHIZE,amazon/nova-micro-v1,User-Centered Design,FDM,120,65.00,65.00
+IEMPATHIZE,amazon/nova-micro-v1,User-Centered Design,MV,120,64.17,64.17
+IEMPATHIZE,amazon/nova-micro-v1,baseline,BASELINE,120,43.33,43.33
+IEMPATHIZE,amazon/nova-micro-v1,no-description,FDM,120,66.67,66.67
+IEMPATHIZE,amazon/nova-micro-v1,no-description,MV,120,67.50,67.50
+IEMPATHIZE,amazon/nova-micro-v1,no-personality,FDM,120,60.83,60.83
+IEMPATHIZE,amazon/nova-micro-v1,no-personality,MV,120,58.33,58.33
+IEMPATHIZE,google/gemma-3-12b-it,Cognitive Load Theory,FDM,120,66.67,66.67
+IEMPATHIZE,google/gemma-3-12b-it,Cognitive Load Theory,MV,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-12b-it,Dual-Process Theory,FDM,120,68.33,68.33
+IEMPATHIZE,google/gemma-3-12b-it,Dual-Process Theory,MV,120,64.17,64.17
+IEMPATHIZE,google/gemma-3-12b-it,Flow Theory,FDM,120,61.67,61.67
+IEMPATHIZE,google/gemma-3-12b-it,Flow Theory,MV,120,63.33,63.33
+IEMPATHIZE,google/gemma-3-12b-it,Freudian Psychoanalysis,FDM,120,60.83,60.83
+IEMPATHIZE,google/gemma-3-12b-it,Freudian Psychoanalysis,MV,120,59.17,59.17
+IEMPATHIZE,google/gemma-3-12b-it,User Design Persona,FDM,120,64.17,64.17
+IEMPATHIZE,google/gemma-3-12b-it,User Design Persona,MV,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-12b-it,User-Centered Design,FDM,120,63.33,63.33
+IEMPATHIZE,google/gemma-3-12b-it,User-Centered Design,MV,120,63.33,63.33
+IEMPATHIZE,google/gemma-3-12b-it,baseline,BASELINE,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-12b-it,no-description,FDM,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-12b-it,no-description,MV,120,66.67,66.67
+IEMPATHIZE,google/gemma-3-12b-it,no-personality,FDM,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-12b-it,no-personality,MV,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-27b-it,Cognitive Load Theory,FDM,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-27b-it,Cognitive Load Theory,MV,120,63.33,63.33
+IEMPATHIZE,google/gemma-3-27b-it,Dual-Process Theory,FDM,120,60.00,60.00
+IEMPATHIZE,google/gemma-3-27b-it,Dual-Process Theory,MV,120,61.67,61.67
+IEMPATHIZE,google/gemma-3-27b-it,Flow Theory,FDM,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-27b-it,Flow Theory,MV,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-27b-it,Freudian Psychoanalysis,FDM,120,64.17,64.17
+IEMPATHIZE,google/gemma-3-27b-it,Freudian Psychoanalysis,MV,120,63.33,63.33
+IEMPATHIZE,google/gemma-3-27b-it,User Design Persona,FDM,120,65.83,65.83
+IEMPATHIZE,google/gemma-3-27b-it,User Design Persona,MV,120,69.17,69.17
+IEMPATHIZE,google/gemma-3-27b-it,User-Centered Design,FDM,120,65.00,65.00
+IEMPATHIZE,google/gemma-3-27b-it,User-Centered Design,MV,120,68.33,68.33
+IEMPATHIZE,google/gemma-3-27b-it,baseline,BASELINE,120,74.17,74.17
+IEMPATHIZE,google/gemma-3-27b-it,no-description,FDM,120,66.67,66.67
+IEMPATHIZE,google/gemma-3-27b-it,no-description,MV,120,69.17,69.17
+IEMPATHIZE,google/gemma-3-27b-it,no-personality,FDM,120,61.67,61.67
+IEMPATHIZE,google/gemma-3-27b-it,no-personality,MV,120,65.00,65.00
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,FDM,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,MV,120,67.50,67.50
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,FDM,120,65.83,65.83
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,MV,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,Flow Theory,FDM,120,67.50,67.50
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,Flow Theory,MV,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,FDM,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,MV,120,67.50,67.50
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,User Design Persona,FDM,120,70.00,70.00
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,User Design Persona,MV,120,69.17,69.17
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,User-Centered Design,FDM,120,67.50,67.50
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,User-Centered Design,MV,120,68.33,68.33
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,baseline,BASELINE,120,70.83,70.83
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,no-description,FDM,120,69.17,69.17
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,no-description,MV,120,69.17,69.17
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,no-personality,FDM,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-3.3-70b-instruct,no-personality,MV,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-4-scout,Cognitive Load Theory,FDM,120,65.83,66.67
+IEMPATHIZE,meta-llama/llama-4-scout,Cognitive Load Theory,MV,120,65.83,65.83
+IEMPATHIZE,meta-llama/llama-4-scout,Dual-Process Theory,FDM,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-4-scout,Dual-Process Theory,MV,120,65.83,65.83
+IEMPATHIZE,meta-llama/llama-4-scout,Flow Theory,FDM,120,65.83,65.83
+IEMPATHIZE,meta-llama/llama-4-scout,Flow Theory,MV,120,63.33,63.33
+IEMPATHIZE,meta-llama/llama-4-scout,Freudian Psychoanalysis,FDM,120,65.00,65.00
+IEMPATHIZE,meta-llama/llama-4-scout,Freudian Psychoanalysis,MV,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-4-scout,User Design Persona,FDM,120,65.83,65.83
+IEMPATHIZE,meta-llama/llama-4-scout,User Design Persona,MV,120,64.17,64.17
+IEMPATHIZE,meta-llama/llama-4-scout,User-Centered Design,FDM,120,65.00,65.00
+IEMPATHIZE,meta-llama/llama-4-scout,User-Centered Design,MV,120,65.83,65.83
+IEMPATHIZE,meta-llama/llama-4-scout,baseline,BASELINE,120,47.50,49.17
+IEMPATHIZE,meta-llama/llama-4-scout,no-description,FDM,120,67.50,67.50
+IEMPATHIZE,meta-llama/llama-4-scout,no-description,MV,120,66.67,66.67
+IEMPATHIZE,meta-llama/llama-4-scout,no-personality,FDM,120,65.00,65.00
+IEMPATHIZE,meta-llama/llama-4-scout,no-personality,MV,120,63.33,63.33
+empatheticDialogues_classification,amazon/nova-micro-v1,Cognitive Load Theory,FDM,320,38.75,38.75
+empatheticDialogues_classification,amazon/nova-micro-v1,Cognitive Load Theory,MV,320,36.88,36.88
+empatheticDialogues_classification,amazon/nova-micro-v1,Dual-Process Theory,FDM,320,37.50,37.50
+empatheticDialogues_classification,amazon/nova-micro-v1,Dual-Process Theory,MV,320,37.50,37.50
+empatheticDialogues_classification,amazon/nova-micro-v1,Flow Theory,FDM,320,35.62,35.62
+empatheticDialogues_classification,amazon/nova-micro-v1,Flow Theory,MV,320,35.94,35.94
+empatheticDialogues_classification,amazon/nova-micro-v1,Freudian Psychoanalysis,FDM,320,37.19,37.19
+empatheticDialogues_classification,amazon/nova-micro-v1,Freudian Psychoanalysis,MV,320,36.56,36.56
+empatheticDialogues_classification,amazon/nova-micro-v1,User Design Persona,FDM,320,38.12,38.12
+empatheticDialogues_classification,amazon/nova-micro-v1,User Design Persona,MV,320,38.12,38.12
+empatheticDialogues_classification,amazon/nova-micro-v1,User-Centered Design,FDM,320,37.81,37.81
+empatheticDialogues_classification,amazon/nova-micro-v1,User-Centered Design,MV,320,37.81,37.81
+empatheticDialogues_classification,amazon/nova-micro-v1,baseline,BASELINE,320,0.00,0.00
+empatheticDialogues_classification,amazon/nova-micro-v1,no-description,FDM,320,39.69,39.69
+empatheticDialogues_classification,amazon/nova-micro-v1,no-description,MV,320,41.56,41.56
+empatheticDialogues_classification,amazon/nova-micro-v1,no-personality,FDM,320,38.75,38.75
+empatheticDialogues_classification,amazon/nova-micro-v1,no-personality,MV,320,38.75,38.75
+empatheticDialogues_classification,google/gemma-3-12b-it,Cognitive Load Theory,FDM,320,46.88,46.88
+empatheticDialogues_classification,google/gemma-3-12b-it,Cognitive Load Theory,MV,320,45.00,45.00
+empatheticDialogues_classification,google/gemma-3-12b-it,Dual-Process Theory,FDM,320,44.38,44.38
+empatheticDialogues_classification,google/gemma-3-12b-it,Dual-Process Theory,MV,320,42.81,42.81
+empatheticDialogues_classification,google/gemma-3-12b-it,Flow Theory,FDM,320,45.31,45.31
+empatheticDialogues_classification,google/gemma-3-12b-it,Flow Theory,MV,320,45.31,45.31
+empatheticDialogues_classification,google/gemma-3-12b-it,Freudian Psychoanalysis,FDM,320,44.06,44.06
+empatheticDialogues_classification,google/gemma-3-12b-it,Freudian Psychoanalysis,MV,320,43.75,43.75
+empatheticDialogues_classification,google/gemma-3-12b-it,User Design Persona,FDM,320,46.56,46.56
+empatheticDialogues_classification,google/gemma-3-12b-it,User Design Persona,MV,320,44.38,44.38
+empatheticDialogues_classification,google/gemma-3-12b-it,User-Centered Design,FDM,320,43.44,43.44
+empatheticDialogues_classification,google/gemma-3-12b-it,User-Centered Design,MV,320,43.75,43.75
+empatheticDialogues_classification,google/gemma-3-12b-it,baseline,BASELINE,320,42.19,44.38
+empatheticDialogues_classification,google/gemma-3-12b-it,no-description,FDM,320,44.38,44.38
+empatheticDialogues_classification,google/gemma-3-12b-it,no-description,MV,320,43.75,43.75
+empatheticDialogues_classification,google/gemma-3-12b-it,no-personality,FDM,320,45.62,45.62
+empatheticDialogues_classification,google/gemma-3-12b-it,no-personality,MV,320,44.69,44.69
+empatheticDialogues_classification,google/gemma-3-27b-it,Cognitive Load Theory,FDM,320,44.69,44.69
+empatheticDialogues_classification,google/gemma-3-27b-it,Cognitive Load Theory,MV,320,44.69,44.69
+empatheticDialogues_classification,google/gemma-3-27b-it,Dual-Process Theory,FDM,320,44.06,44.06
+empatheticDialogues_classification,google/gemma-3-27b-it,Dual-Process Theory,MV,320,43.75,43.75
+empatheticDialogues_classification,google/gemma-3-27b-it,Flow Theory,FDM,320,46.88,46.88
+empatheticDialogues_classification,google/gemma-3-27b-it,Flow Theory,MV,320,46.25,46.25
+empatheticDialogues_classification,google/gemma-3-27b-it,Freudian Psychoanalysis,FDM,320,40.62,40.62
+empatheticDialogues_classification,google/gemma-3-27b-it,Freudian Psychoanalysis,MV,320,40.31,40.31
+empatheticDialogues_classification,google/gemma-3-27b-it,User Design Persona,FDM,320,44.38,44.38
+empatheticDialogues_classification,google/gemma-3-27b-it,User Design Persona,MV,320,44.69,44.69
+empatheticDialogues_classification,google/gemma-3-27b-it,User-Centered Design,FDM,320,43.44,43.44
+empatheticDialogues_classification,google/gemma-3-27b-it,User-Centered Design,MV,320,42.81,42.81
+empatheticDialogues_classification,google/gemma-3-27b-it,baseline,BASELINE,320,20.62,21.56
+empatheticDialogues_classification,google/gemma-3-27b-it,no-description,FDM,320,45.94,45.94
+empatheticDialogues_classification,google/gemma-3-27b-it,no-description,MV,320,45.94,45.94
+empatheticDialogues_classification,google/gemma-3-27b-it,no-personality,FDM,320,45.31,45.31
+empatheticDialogues_classification,google/gemma-3-27b-it,no-personality,MV,320,45.94,45.94
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,FDM,320,44.38,44.38
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,MV,320,45.00,45.00
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,FDM,320,45.00,45.00
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,MV,320,45.94,45.94
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,Flow Theory,FDM,320,45.62,45.62
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,Flow Theory,MV,320,44.06,44.06
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,FDM,320,44.38,44.38
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,MV,320,45.00,45.00
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,User Design Persona,FDM,320,46.25,46.25
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,User Design Persona,MV,320,45.62,45.62
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,User-Centered Design,FDM,320,44.38,44.38
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,User-Centered Design,MV,320,45.00,45.00
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,baseline,BASELINE,320,0.00,0.00
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,no-description,FDM,320,46.25,46.25
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,no-description,MV,320,46.88,46.88
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,no-personality,FDM,320,45.00,45.00
+empatheticDialogues_classification,meta-llama/llama-3.3-70b-instruct,no-personality,MV,320,45.94,45.94
+empatheticDialogues_classification,meta-llama/llama-4-scout,Cognitive Load Theory,FDM,320,45.94,45.94
+empatheticDialogues_classification,meta-llama/llama-4-scout,Cognitive Load Theory,MV,320,44.69,44.69
+empatheticDialogues_classification,meta-llama/llama-4-scout,Dual-Process Theory,FDM,320,45.62,45.62
+empatheticDialogues_classification,meta-llama/llama-4-scout,Dual-Process Theory,MV,320,43.44,43.44
+empatheticDialogues_classification,meta-llama/llama-4-scout,Flow Theory,FDM,320,43.75,43.75
+empatheticDialogues_classification,meta-llama/llama-4-scout,Flow Theory,MV,320,43.12,43.12
+empatheticDialogues_classification,meta-llama/llama-4-scout,Freudian Psychoanalysis,FDM,320,46.25,46.25
+empatheticDialogues_classification,meta-llama/llama-4-scout,Freudian Psychoanalysis,MV,320,45.31,45.31
+empatheticDialogues_classification,meta-llama/llama-4-scout,User Design Persona,FDM,320,44.06,44.06
+empatheticDialogues_classification,meta-llama/llama-4-scout,User Design Persona,MV,320,43.12,43.12
+empatheticDialogues_classification,meta-llama/llama-4-scout,User-Centered Design,FDM,320,45.00,45.00
+empatheticDialogues_classification,meta-llama/llama-4-scout,User-Centered Design,MV,320,45.62,45.62
+empatheticDialogues_classification,meta-llama/llama-4-scout,baseline,BASELINE,320,0.00,0.00
+empatheticDialogues_classification,meta-llama/llama-4-scout,no-description,FDM,320,43.44,43.44
+empatheticDialogues_classification,meta-llama/llama-4-scout,no-description,MV,320,44.06,44.06
+empatheticDialogues_classification,meta-llama/llama-4-scout,no-personality,FDM,320,44.38,44.38
+empatheticDialogues_classification,meta-llama/llama-4-scout,no-personality,MV,320,44.38,44.38
+hitom,amazon/nova-micro-v1,Cognitive Load Theory,FDM,150,50.67,50.67
+hitom,amazon/nova-micro-v1,Cognitive Load Theory,MV,150,45.33,45.33
+hitom,amazon/nova-micro-v1,Dual-Process Theory,FDM,150,52.67,52.67
+hitom,amazon/nova-micro-v1,Dual-Process Theory,MV,150,51.33,51.33
+hitom,amazon/nova-micro-v1,Flow Theory,FDM,150,48.00,48.00
+hitom,amazon/nova-micro-v1,Flow Theory,MV,150,50.00,50.00
+hitom,amazon/nova-micro-v1,Freudian Psychoanalysis,FDM,150,48.00,48.00
+hitom,amazon/nova-micro-v1,Freudian Psychoanalysis,MV,150,48.67,48.67
+hitom,amazon/nova-micro-v1,User Design Persona,FDM,150,52.00,52.00
+hitom,amazon/nova-micro-v1,User Design Persona,MV,150,47.33,47.33
+hitom,amazon/nova-micro-v1,User-Centered Design,FDM,150,44.67,44.67
+hitom,amazon/nova-micro-v1,User-Centered Design,MV,150,46.00,46.00
+hitom,amazon/nova-micro-v1,baseline,BASELINE,150,0.00,0.00
+hitom,amazon/nova-micro-v1,no-description,FDM,150,48.00,48.00
+hitom,amazon/nova-micro-v1,no-description,MV,150,45.33,45.33
+hitom,amazon/nova-micro-v1,no-personality,FDM,150,45.33,45.33
+hitom,amazon/nova-micro-v1,no-personality,MV,150,48.67,48.67
+hitom,google/gemma-3-12b-it,Cognitive Load Theory,FDM,150,56.00,56.00
+hitom,google/gemma-3-12b-it,Cognitive Load Theory,MV,150,57.33,57.33
+hitom,google/gemma-3-12b-it,Dual-Process Theory,FDM,150,56.67,56.67
+hitom,google/gemma-3-12b-it,Dual-Process Theory,MV,150,60.00,60.00
+hitom,google/gemma-3-12b-it,Flow Theory,FDM,150,60.67,60.67
+hitom,google/gemma-3-12b-it,Flow Theory,MV,150,62.67,62.67
+hitom,google/gemma-3-12b-it,Freudian Psychoanalysis,FDM,150,59.33,59.33
+hitom,google/gemma-3-12b-it,Freudian Psychoanalysis,MV,150,60.00,60.00
+hitom,google/gemma-3-12b-it,User Design Persona,FDM,150,56.00,56.00
+hitom,google/gemma-3-12b-it,User Design Persona,MV,150,59.33,59.33
+hitom,google/gemma-3-12b-it,User-Centered Design,FDM,150,54.67,54.67
+hitom,google/gemma-3-12b-it,User-Centered Design,MV,150,58.67,58.67
+hitom,google/gemma-3-12b-it,baseline,BASELINE,150,0.00,0.00
+hitom,google/gemma-3-12b-it,no-description,FDM,150,56.67,56.67
+hitom,google/gemma-3-12b-it,no-description,MV,150,59.33,59.33
+hitom,google/gemma-3-12b-it,no-personality,FDM,150,58.67,58.67
+hitom,google/gemma-3-12b-it,no-personality,MV,150,59.33,59.33
+hitom,google/gemma-3-27b-it,Cognitive Load Theory,FDM,150,8.00,8.00
+hitom,google/gemma-3-27b-it,Cognitive Load Theory,MV,150,4.67,4.67
+hitom,google/gemma-3-27b-it,Dual-Process Theory,FDM,150,4.67,4.67
+hitom,google/gemma-3-27b-it,Dual-Process Theory,MV,150,2.67,2.67
+hitom,google/gemma-3-27b-it,Flow Theory,FDM,150,8.00,8.00
+hitom,google/gemma-3-27b-it,Flow Theory,MV,150,8.67,8.67
+hitom,google/gemma-3-27b-it,Freudian Psychoanalysis,FDM,150,12.00,12.00
+hitom,google/gemma-3-27b-it,Freudian Psychoanalysis,MV,150,6.00,6.00
+hitom,google/gemma-3-27b-it,User Design Persona,FDM,150,9.33,9.33
+hitom,google/gemma-3-27b-it,User Design Persona,MV,150,4.67,4.67
+hitom,google/gemma-3-27b-it,User-Centered Design,FDM,150,9.33,9.33
+hitom,google/gemma-3-27b-it,User-Centered Design,MV,150,4.67,4.67
+hitom,google/gemma-3-27b-it,baseline,BASELINE,150,0.00,0.00
+hitom,google/gemma-3-27b-it,no-description,FDM,150,8.67,8.67
+hitom,google/gemma-3-27b-it,no-description,MV,150,3.33,3.33
+hitom,google/gemma-3-27b-it,no-personality,FDM,150,6.00,6.00
+hitom,google/gemma-3-27b-it,no-personality,MV,150,4.00,4.00
+hitom,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,FDM,150,68.00,68.00
+hitom,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,MV,150,68.00,68.00
+hitom,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,FDM,150,66.67,66.67
+hitom,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,MV,150,68.00,68.00
+hitom,meta-llama/llama-3.3-70b-instruct,Flow Theory,FDM,150,65.33,65.33
+hitom,meta-llama/llama-3.3-70b-instruct,Flow Theory,MV,150,68.67,68.67
+hitom,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,FDM,150,65.33,65.33
+hitom,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,MV,150,66.67,66.67
+hitom,meta-llama/llama-3.3-70b-instruct,User Design Persona,FDM,150,70.00,70.00
+hitom,meta-llama/llama-3.3-70b-instruct,User Design Persona,MV,150,69.33,69.33
+hitom,meta-llama/llama-3.3-70b-instruct,User-Centered Design,FDM,150,68.00,68.00
+hitom,meta-llama/llama-3.3-70b-instruct,User-Centered Design,MV,150,70.00,70.00
+hitom,meta-llama/llama-3.3-70b-instruct,baseline,BASELINE,150,0.00,0.00
+hitom,meta-llama/llama-3.3-70b-instruct,no-description,FDM,150,66.67,66.67
+hitom,meta-llama/llama-3.3-70b-instruct,no-description,MV,150,68.67,68.67
+hitom,meta-llama/llama-3.3-70b-instruct,no-personality,FDM,150,68.67,68.67
+hitom,meta-llama/llama-3.3-70b-instruct,no-personality,MV,150,68.00,68.00
+hitom,meta-llama/llama-4-scout,Cognitive Load Theory,FDM,150,18.67,18.67
+hitom,meta-llama/llama-4-scout,Cognitive Load Theory,MV,150,20.67,20.67
+hitom,meta-llama/llama-4-scout,Dual-Process Theory,FDM,150,14.00,14.00
+hitom,meta-llama/llama-4-scout,Dual-Process Theory,MV,150,11.33,11.33
+hitom,meta-llama/llama-4-scout,Flow Theory,FDM,150,11.33,11.33
+hitom,meta-llama/llama-4-scout,Flow Theory,MV,150,16.00,16.00
+hitom,meta-llama/llama-4-scout,Freudian Psychoanalysis,FDM,150,17.33,17.33
+hitom,meta-llama/llama-4-scout,Freudian Psychoanalysis,MV,150,14.67,14.67
+hitom,meta-llama/llama-4-scout,User Design Persona,FDM,150,8.00,8.00
+hitom,meta-llama/llama-4-scout,User Design Persona,MV,150,9.33,9.33
+hitom,meta-llama/llama-4-scout,User-Centered Design,FDM,150,19.33,19.33
+hitom,meta-llama/llama-4-scout,User-Centered Design,MV,150,21.33,21.33
+hitom,meta-llama/llama-4-scout,baseline,BASELINE,150,0.00,0.00
+hitom,meta-llama/llama-4-scout,no-description,FDM,150,30.67,30.67
+hitom,meta-llama/llama-4-scout,no-description,MV,150,22.67,22.67
+hitom,meta-llama/llama-4-scout,no-personality,FDM,150,13.33,13.33
+hitom,meta-llama/llama-4-scout,no-personality,MV,150,12.67,12.67
+opentom,amazon/nova-micro-v1,Cognitive Load Theory,FDM,105,43.81,43.81
+opentom,amazon/nova-micro-v1,Cognitive Load Theory,MV,105,42.86,42.86
+opentom,amazon/nova-micro-v1,Dual-Process Theory,FDM,105,44.76,45.71
+opentom,amazon/nova-micro-v1,Dual-Process Theory,MV,105,45.71,46.67
+opentom,amazon/nova-micro-v1,Flow Theory,FDM,105,43.81,43.81
+opentom,amazon/nova-micro-v1,Flow Theory,MV,105,49.52,50.48
+opentom,amazon/nova-micro-v1,Freudian Psychoanalysis,FDM,105,44.76,44.76
+opentom,amazon/nova-micro-v1,Freudian Psychoanalysis,MV,105,45.71,48.57
+opentom,amazon/nova-micro-v1,User Design Persona,FDM,105,42.86,42.86
+opentom,amazon/nova-micro-v1,User Design Persona,MV,105,41.90,41.90
+opentom,amazon/nova-micro-v1,User-Centered Design,FDM,105,41.90,42.86
+opentom,amazon/nova-micro-v1,User-Centered Design,MV,105,41.90,41.90
+opentom,amazon/nova-micro-v1,baseline,BASELINE,105,0.00,0.00
+opentom,amazon/nova-micro-v1,no-description,FDM,105,44.76,44.76
+opentom,amazon/nova-micro-v1,no-description,MV,105,40.95,40.95
+opentom,amazon/nova-micro-v1,no-personality,FDM,105,42.86,42.86
+opentom,amazon/nova-micro-v1,no-personality,MV,105,43.81,43.81
+opentom,google/gemma-3-12b-it,Cognitive Load Theory,FDM,105,46.67,46.67
+opentom,google/gemma-3-12b-it,Cognitive Load Theory,MV,105,47.62,49.52
+opentom,google/gemma-3-12b-it,Dual-Process Theory,FDM,105,42.86,43.81
+opentom,google/gemma-3-12b-it,Dual-Process Theory,MV,105,44.76,44.76
+opentom,google/gemma-3-12b-it,Flow Theory,FDM,105,48.57,48.57
+opentom,google/gemma-3-12b-it,Flow Theory,MV,105,49.52,49.52
+opentom,google/gemma-3-12b-it,Freudian Psychoanalysis,FDM,105,44.76,44.76
+opentom,google/gemma-3-12b-it,Freudian Psychoanalysis,MV,105,44.76,45.71
+opentom,google/gemma-3-12b-it,User Design Persona,FDM,105,42.86,42.86
+opentom,google/gemma-3-12b-it,User Design Persona,MV,105,44.76,45.71
+opentom,google/gemma-3-12b-it,User-Centered Design,FDM,105,42.86,42.86
+opentom,google/gemma-3-12b-it,User-Centered Design,MV,105,44.76,44.76
+opentom,google/gemma-3-12b-it,baseline,BASELINE,105,0.00,0.00
+opentom,google/gemma-3-12b-it,no-description,FDM,105,46.67,49.52
+opentom,google/gemma-3-12b-it,no-description,MV,105,48.57,51.43
+opentom,google/gemma-3-12b-it,no-personality,FDM,105,45.71,45.71
+opentom,google/gemma-3-12b-it,no-personality,MV,105,42.86,43.81
+opentom,google/gemma-3-27b-it,Cognitive Load Theory,FDM,105,52.38,56.19
+opentom,google/gemma-3-27b-it,Cognitive Load Theory,MV,105,54.29,56.19
+opentom,google/gemma-3-27b-it,Dual-Process Theory,FDM,105,54.29,58.10
+opentom,google/gemma-3-27b-it,Dual-Process Theory,MV,105,56.19,59.05
+opentom,google/gemma-3-27b-it,Flow Theory,FDM,105,54.29,56.19
+opentom,google/gemma-3-27b-it,Flow Theory,MV,105,54.29,57.14
+opentom,google/gemma-3-27b-it,Freudian Psychoanalysis,FDM,105,52.38,57.14
+opentom,google/gemma-3-27b-it,Freudian Psychoanalysis,MV,105,54.29,57.14
+opentom,google/gemma-3-27b-it,User Design Persona,FDM,105,53.33,56.19
+opentom,google/gemma-3-27b-it,User Design Persona,MV,105,54.29,57.14
+opentom,google/gemma-3-27b-it,User-Centered Design,FDM,105,54.29,59.05
+opentom,google/gemma-3-27b-it,User-Centered Design,MV,105,56.19,58.10
+opentom,google/gemma-3-27b-it,baseline,BASELINE,105,0.00,0.00
+opentom,google/gemma-3-27b-it,no-description,FDM,105,51.43,56.19
+opentom,google/gemma-3-27b-it,no-description,MV,105,53.33,55.24
+opentom,google/gemma-3-27b-it,no-personality,FDM,105,54.29,58.10
+opentom,google/gemma-3-27b-it,no-personality,MV,105,53.33,55.24
+opentom,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,FDM,105,53.33,54.29
+opentom,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,MV,105,54.29,56.19
+opentom,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,FDM,105,56.19,57.14
+opentom,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,MV,105,52.38,53.33
+opentom,meta-llama/llama-3.3-70b-instruct,Flow Theory,FDM,105,53.33,55.24
+opentom,meta-llama/llama-3.3-70b-instruct,Flow Theory,MV,105,51.43,53.33
+opentom,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,FDM,105,52.38,56.19
+opentom,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,MV,105,55.24,56.19
+opentom,meta-llama/llama-3.3-70b-instruct,User Design Persona,FDM,105,50.48,51.43
+opentom,meta-llama/llama-3.3-70b-instruct,User Design Persona,MV,105,51.43,53.33
+opentom,meta-llama/llama-3.3-70b-instruct,User-Centered Design,FDM,105,56.19,57.14
+opentom,meta-llama/llama-3.3-70b-instruct,User-Centered Design,MV,105,55.24,56.19
+opentom,meta-llama/llama-3.3-70b-instruct,baseline,BASELINE,105,0.00,0.00
+opentom,meta-llama/llama-3.3-70b-instruct,no-description,FDM,105,52.38,55.24
+opentom,meta-llama/llama-3.3-70b-instruct,no-description,MV,105,49.52,53.33
+opentom,meta-llama/llama-3.3-70b-instruct,no-personality,FDM,105,55.24,57.14
+opentom,meta-llama/llama-3.3-70b-instruct,no-personality,MV,105,52.38,54.29
+opentom,meta-llama/llama-4-scout,Cognitive Load Theory,FDM,105,54.29,57.14
+opentom,meta-llama/llama-4-scout,Cognitive Load Theory,MV,105,52.38,56.19
+opentom,meta-llama/llama-4-scout,Dual-Process Theory,FDM,105,52.38,55.24
+opentom,meta-llama/llama-4-scout,Dual-Process Theory,MV,105,53.33,55.24
+opentom,meta-llama/llama-4-scout,Flow Theory,FDM,105,48.57,52.38
+opentom,meta-llama/llama-4-scout,Flow Theory,MV,105,50.48,53.33
+opentom,meta-llama/llama-4-scout,Freudian Psychoanalysis,FDM,105,50.48,52.38
+opentom,meta-llama/llama-4-scout,Freudian Psychoanalysis,MV,105,53.33,55.24
+opentom,meta-llama/llama-4-scout,User Design Persona,FDM,105,54.29,56.19
+opentom,meta-llama/llama-4-scout,User Design Persona,MV,105,53.33,55.24
+opentom,meta-llama/llama-4-scout,User-Centered Design,FDM,105,54.29,56.19
+opentom,meta-llama/llama-4-scout,User-Centered Design,MV,105,53.33,55.24
+opentom,meta-llama/llama-4-scout,baseline,BASELINE,105,0.00,0.00
+opentom,meta-llama/llama-4-scout,no-description,FDM,105,58.10,60.00
+opentom,meta-llama/llama-4-scout,no-description,MV,105,57.14,59.05
+opentom,meta-llama/llama-4-scout,no-personality,FDM,105,50.48,53.33
+opentom,meta-llama/llama-4-scout,no-personality,MV,105,50.48,53.33
+tomato,amazon/nova-micro-v1,Cognitive Load Theory,FDM,150,49.33,94.00
+tomato,amazon/nova-micro-v1,Cognitive Load Theory,MV,150,49.33,93.33
+tomato,amazon/nova-micro-v1,Dual-Process Theory,FDM,150,50.67,96.00
+tomato,amazon/nova-micro-v1,Dual-Process Theory,MV,150,49.33,93.33
+tomato,amazon/nova-micro-v1,Flow Theory,FDM,150,49.33,94.67
+tomato,amazon/nova-micro-v1,Flow Theory,MV,150,50.00,92.67
+tomato,amazon/nova-micro-v1,Freudian Psychoanalysis,FDM,150,48.67,94.00
+tomato,amazon/nova-micro-v1,Freudian Psychoanalysis,MV,150,50.00,92.67
+tomato,amazon/nova-micro-v1,User Design Persona,FDM,150,48.00,94.00
+tomato,amazon/nova-micro-v1,User Design Persona,MV,150,46.67,93.33
+tomato,amazon/nova-micro-v1,User-Centered Design,FDM,150,50.00,96.00
+tomato,amazon/nova-micro-v1,User-Centered Design,MV,150,49.33,94.67
+tomato,amazon/nova-micro-v1,baseline,BASELINE,150,0.67,1.33
+tomato,amazon/nova-micro-v1,no-description,FDM,150,50.00,95.33
+tomato,amazon/nova-micro-v1,no-description,MV,150,50.67,95.33
+tomato,amazon/nova-micro-v1,no-personality,FDM,150,46.00,96.00
+tomato,amazon/nova-micro-v1,no-personality,MV,150,50.00,94.67
+tomato,google/gemma-3-12b-it,Cognitive Load Theory,FDM,150,64.67,96.00
+tomato,google/gemma-3-12b-it,Cognitive Load Theory,MV,150,66.00,96.67
+tomato,google/gemma-3-12b-it,Dual-Process Theory,FDM,150,64.00,94.00
+tomato,google/gemma-3-12b-it,Dual-Process Theory,MV,150,65.33,96.00
+tomato,google/gemma-3-12b-it,Flow Theory,FDM,150,68.00,96.00
+tomato,google/gemma-3-12b-it,Flow Theory,MV,150,67.33,96.00
+tomato,google/gemma-3-12b-it,Freudian Psychoanalysis,FDM,150,66.00,96.67
+tomato,google/gemma-3-12b-it,Freudian Psychoanalysis,MV,150,63.33,96.00
+tomato,google/gemma-3-12b-it,User Design Persona,FDM,150,68.00,95.33
+tomato,google/gemma-3-12b-it,User Design Persona,MV,150,66.67,95.33
+tomato,google/gemma-3-12b-it,User-Centered Design,FDM,150,67.33,96.67
+tomato,google/gemma-3-12b-it,User-Centered Design,MV,150,66.00,97.33
+tomato,google/gemma-3-12b-it,baseline,BASELINE,150,66.67,96.67
+tomato,google/gemma-3-12b-it,no-description,FDM,150,68.00,95.33
+tomato,google/gemma-3-12b-it,no-description,MV,150,68.67,96.67
+tomato,google/gemma-3-12b-it,no-personality,FDM,150,67.33,96.67
+tomato,google/gemma-3-12b-it,no-personality,MV,150,64.67,96.67
+tomato,google/gemma-3-27b-it,Cognitive Load Theory,FDM,150,65.33,98.00
+tomato,google/gemma-3-27b-it,Cognitive Load Theory,MV,150,65.33,98.00
+tomato,google/gemma-3-27b-it,Dual-Process Theory,FDM,150,67.33,98.67
+tomato,google/gemma-3-27b-it,Dual-Process Theory,MV,150,68.00,98.67
+tomato,google/gemma-3-27b-it,Flow Theory,FDM,150,68.67,98.00
+tomato,google/gemma-3-27b-it,Flow Theory,MV,150,67.33,97.33
+tomato,google/gemma-3-27b-it,Freudian Psychoanalysis,FDM,150,67.33,98.67
+tomato,google/gemma-3-27b-it,Freudian Psychoanalysis,MV,150,69.33,98.67
+tomato,google/gemma-3-27b-it,User Design Persona,FDM,150,67.33,98.67
+tomato,google/gemma-3-27b-it,User Design Persona,MV,150,68.67,98.67
+tomato,google/gemma-3-27b-it,User-Centered Design,FDM,150,68.00,97.33
+tomato,google/gemma-3-27b-it,User-Centered Design,MV,150,68.00,98.00
+tomato,google/gemma-3-27b-it,baseline,BASELINE,150,20.00,24.67
+tomato,google/gemma-3-27b-it,no-description,FDM,150,68.00,98.67
+tomato,google/gemma-3-27b-it,no-description,MV,150,67.33,98.00
+tomato,google/gemma-3-27b-it,no-personality,FDM,150,67.33,98.00
+tomato,google/gemma-3-27b-it,no-personality,MV,150,68.67,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,FDM,150,75.33,98.67
+tomato,meta-llama/llama-3.3-70b-instruct,Cognitive Load Theory,MV,150,76.00,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,FDM,150,74.00,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,Dual-Process Theory,MV,150,76.00,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,Flow Theory,FDM,150,77.33,98.67
+tomato,meta-llama/llama-3.3-70b-instruct,Flow Theory,MV,150,78.67,98.67
+tomato,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,FDM,150,73.33,98.67
+tomato,meta-llama/llama-3.3-70b-instruct,Freudian Psychoanalysis,MV,150,75.33,98.67
+tomato,meta-llama/llama-3.3-70b-instruct,User Design Persona,FDM,150,75.33,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,User Design Persona,MV,150,75.33,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,User-Centered Design,FDM,150,74.67,98.67
+tomato,meta-llama/llama-3.3-70b-instruct,User-Centered Design,MV,150,74.67,98.67
+tomato,meta-llama/llama-3.3-70b-instruct,baseline,BASELINE,150,76.00,96.67
+tomato,meta-llama/llama-3.3-70b-instruct,no-description,FDM,150,74.67,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,no-description,MV,150,74.67,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,no-personality,FDM,150,72.67,98.00
+tomato,meta-llama/llama-3.3-70b-instruct,no-personality,MV,150,76.00,98.00
+tomato,meta-llama/llama-4-scout,Cognitive Load Theory,FDM,150,70.67,94.67
+tomato,meta-llama/llama-4-scout,Cognitive Load Theory,MV,150,72.67,98.67
+tomato,meta-llama/llama-4-scout,Dual-Process Theory,FDM,150,74.00,98.00
+tomato,meta-llama/llama-4-scout,Dual-Process Theory,MV,150,74.67,98.00
+tomato,meta-llama/llama-4-scout,Flow Theory,FDM,150,72.00,98.00
+tomato,meta-llama/llama-4-scout,Flow Theory,MV,150,72.00,98.00
+tomato,meta-llama/llama-4-scout,Freudian Psychoanalysis,FDM,150,72.00,97.33
+tomato,meta-llama/llama-4-scout,Freudian Psychoanalysis,MV,150,72.67,98.00
+tomato,meta-llama/llama-4-scout,User Design Persona,FDM,150,68.00,98.00
+tomato,meta-llama/llama-4-scout,User Design Persona,MV,150,70.00,98.00
+tomato,meta-llama/llama-4-scout,User-Centered Design,FDM,150,71.33,97.33
+tomato,meta-llama/llama-4-scout,User-Centered Design,MV,150,71.33,97.33
+tomato,meta-llama/llama-4-scout,baseline,BASELINE,150,16.67,18.00
+tomato,meta-llama/llama-4-scout,no-description,FDM,150,70.67,95.33
+tomato,meta-llama/llama-4-scout,no-description,MV,150,72.00,99.33
+tomato,meta-llama/llama-4-scout,no-personality,FDM,150,68.67,94.00
+tomato,meta-llama/llama-4-scout,no-personality,MV,150,70.67,98.00
