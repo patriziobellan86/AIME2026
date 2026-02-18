@@ -93,23 +93,3 @@ def RunFramework(args_dict):
     RunExperiment(args_dict)
 
     print("Experiment completed")
- #
- # args_dict = {'name': 'out-of-topic-chatFAQ',
- #                 'task': 'Classify a sentence as out of topic or not',
- #                 'context': 'A supportive chatbot designed for pregnant women and new mothers, offering guidance from pregnancy through the baby’s first 1,000 days. It provides answers on health, baby care, nutrition, psychological support, and financial planning, as well as assistance with related questions like choosing the best hospital for delivery.',
- #                 # 'expert_creator': 'Human Resource manager',
- #                 'description_framework': "Persona",
- #                 'model_name': "meta-llama/Llama-3.1-8B-Instruct",
- #                 'output_dir': output_dir,
- #                 'input': input_file,
- #                 'temperature': 1.2,
- #                 'nucleus': 0.9,
- #                 'alternatives':1,
- #                 'resume':1,
- #
- #                 'cache_dir': "/cache",
- #                 'max_experts_number': 3,
- #
- #                 'baseline': False,
- #                 'token': "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"
- #                 }
