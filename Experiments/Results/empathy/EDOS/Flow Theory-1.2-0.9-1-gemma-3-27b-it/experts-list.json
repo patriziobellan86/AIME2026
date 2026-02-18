@@ -1,0 +1,26 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Psycholinguistics\", \"Affective Computing\", \"Cognitive Science\", \"Film Studies\", \"Narrative Theory\", \"Machine Learning\", \"Natural Language Processing\", \"Dialogue Analysis\", \"Emotional Intelligence (human)\", \"Behavioral Psychology\", \"Contextual Analysis\", \"Semantic Analysis\", \"Pragmatics\", \"Statistical Analysis\"]\n",
+    "generation_probability": "unknown",
+    "generation_time": 2.4295449256896973,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Psycholinguistics\", \"Affective Computing\", \"Cognitive Science\", \"Film Studies\", \"Narrative Theory\", \"Machine Learning\", \"Natural Language Processing\", \"Dialogue Analysis\", \"Emotional Intelligence (human)\", \"Behavioral Psychology\", \"Contextual Analysis\", \"Semantic Analysis\", \"Pragmatics\", \"Statistical Analysis\"]\n"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Psycholinguistics",
+        "Affective Computing",
+        "Cognitive Science",
+        "Film Studies",
+        "Narrative Theory",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Dialogue Analysis",
+        "Emotional Intelligence (human)",
+        "Behavioral Psychology",
+        "Contextual Analysis",
+        "Semantic Analysis",
+        "Pragmatics",
+        "Statistical Analysis"
+    ]
+}

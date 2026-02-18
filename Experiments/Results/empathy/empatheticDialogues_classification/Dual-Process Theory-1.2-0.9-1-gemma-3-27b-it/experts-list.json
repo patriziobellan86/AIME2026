@@ -1,0 +1,26 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Psycholinguistics\", \"Affective Computing\", \"Natural Language Processing\", \"Machine Learning\", \"Sentiment Analysis\", \"Cognitive Psychology\", \"Emotion Theory\", \"Statistical Modeling\", \"Data Annotation\", \"Corpus Linguistics\", \"Human-Computer Interaction\", \"Signal Processing (for prosodic features)\", \"Sociolinguistics\", \"Discourse Analysis\"]",
+    "generation_probability": "unknown",
+    "generation_time": 1.930943250656128,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Psycholinguistics\", \"Affective Computing\", \"Natural Language Processing\", \"Machine Learning\", \"Sentiment Analysis\", \"Cognitive Psychology\", \"Emotion Theory\", \"Statistical Modeling\", \"Data Annotation\", \"Corpus Linguistics\", \"Human-Computer Interaction\", \"Signal Processing (for prosodic features)\", \"Sociolinguistics\", \"Discourse Analysis\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Psycholinguistics",
+        "Affective Computing",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Sentiment Analysis",
+        "Cognitive Psychology",
+        "Emotion Theory",
+        "Statistical Modeling",
+        "Data Annotation",
+        "Corpus Linguistics",
+        "Human-Computer Interaction",
+        "Signal Processing (for prosodic features)",
+        "Sociolinguistics",
+        "Discourse Analysis"
+    ]
+}

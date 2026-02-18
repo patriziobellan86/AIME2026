@@ -1,0 +1,26 @@
+{
+    "response_message": "[\"Natural Language Processing (NLP)\", \"Sentiment Analysis\", \"Pragmatics\", \"Computational Linguistics\", \"Emotional Regulation\", \"Clinical Psychology\", \"Social Psychology\", \"Contextual Modeling\", \"Discourse Analysis\", \"Attachment Theory\", \"Emotion Labeling\", \"Behavioral Manifestations of Emotion\", \"Cognitive Biases\", \"Data Privacy\", \"Responsible AI Practices\"]",
+    "generation_probability": "unknown",
+    "generation_time": 5.140044927597046,
+    "generated_sequences": [
+        "[\"Natural Language Processing (NLP)\", \"Sentiment Analysis\", \"Pragmatics\", \"Computational Linguistics\", \"Emotional Regulation\", \"Clinical Psychology\", \"Social Psychology\", \"Contextual Modeling\", \"Discourse Analysis\", \"Attachment Theory\", \"Emotion Labeling\", \"Behavioral Manifestations of Emotion\", \"Cognitive Biases\", \"Data Privacy\", \"Responsible AI Practices\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Natural Language Processing (NLP)",
+        "Sentiment Analysis",
+        "Pragmatics",
+        "Computational Linguistics",
+        "Emotional Regulation",
+        "Clinical Psychology",
+        "Social Psychology",
+        "Contextual Modeling",
+        "Discourse Analysis",
+        "Attachment Theory",
+        "Emotion Labeling",
+        "Behavioral Manifestations of Emotion",
+        "Cognitive Biases",
+        "Data Privacy",
+        "Responsible AI Practices"
+    ]
+}

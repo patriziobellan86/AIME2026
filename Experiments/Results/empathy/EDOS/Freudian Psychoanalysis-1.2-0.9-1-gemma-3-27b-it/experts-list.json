@@ -1,0 +1,29 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Natural Language Processing\", \"Psycholinguistics\", \"Emotion Recognition\", \"Dialogue Analysis\", \"Sentiment Analysis\", \"Machine Learning\", \"Contextual Analysis\", \"Film Studies\", \"Script Analysis\", \"Human-Computer Interaction\", \"Cognitive Science\", \"Behavioral Psychology\", \"Subtextual Interpretation\", \"Nonverbal Communication (as applied to text)\", \"Statistical Analysis\", \"Data Mining\", \"Pattern Recognition\"]",
+    "generation_probability": "unknown",
+    "generation_time": 2.804198980331421,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Natural Language Processing\", \"Psycholinguistics\", \"Emotion Recognition\", \"Dialogue Analysis\", \"Sentiment Analysis\", \"Machine Learning\", \"Contextual Analysis\", \"Film Studies\", \"Script Analysis\", \"Human-Computer Interaction\", \"Cognitive Science\", \"Behavioral Psychology\", \"Subtextual Interpretation\", \"Nonverbal Communication (as applied to text)\", \"Statistical Analysis\", \"Data Mining\", \"Pattern Recognition\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Natural Language Processing",
+        "Psycholinguistics",
+        "Emotion Recognition",
+        "Dialogue Analysis",
+        "Sentiment Analysis",
+        "Machine Learning",
+        "Contextual Analysis",
+        "Film Studies",
+        "Script Analysis",
+        "Human-Computer Interaction",
+        "Cognitive Science",
+        "Behavioral Psychology",
+        "Subtextual Interpretation",
+        "Nonverbal Communication (as applied to text)",
+        "Statistical Analysis",
+        "Data Mining",
+        "Pattern Recognition"
+    ]
+}

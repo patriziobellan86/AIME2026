@@ -1,0 +1,8 @@
+Classify the empathy in the sentence.
+
+DEFINITIONS:
+1. seeking-empathy: Author shares difficult feelings/situations to seek support.
+2. providing-empathy: Author shows care, compassion, or recognition of others' feelings.
+3. none: Factual statements, medical advice, greetings, or everyday life updates.
+
+Return only one category: 'seeking-empathy', 'providing-empathy', or 'none'.

@@ -1,0 +1,21 @@
+{
+    "name": "tom - tomato",
+    "task": "Please leverage the information provided and choose the most probable answer to the question from the options. Output your final answer by strictly following this format: [A], [B], [C], or [D]",
+    "context": "understanding human communication",
+    "description_framework": "no-personality",
+    "model": "meta-llama/llama-4-scout",
+    "output_dir": "./Experiments/Results/tom/tomato",
+    "input": "./Experiments/datasets/tom/tomato/input.json",
+    "temperature": 1.2,
+    "nucleus": 0.9,
+    "alternatives": 1,
+    "resume": 1,
+    "cache_dir": "",
+    "max_experts_number": -1,
+    "baseline": false,
+    "token": "",
+    "openrouterfile": "./Experiments/Config_files/experiments_config_files/tom/tomato/openrouterconfig_meta-llama-llama-4-scout_no-personality.json",
+    "dataset_type": "tom",
+    "dataset": "tomato",
+    "no-personality": true
+}

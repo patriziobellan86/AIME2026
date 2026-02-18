@@ -1,0 +1,19 @@
+{
+    "response_message": "[\"Affective Computing\", \"Emotion Recognition\", \"Natural Language Processing\", \"Psycholinguistics\", \"Cognitive Psychology\", \"Human-Computer Interaction\", \"Linguistics\", \"Emotional Intelligence\"]",
+    "generation_probability": "unknown",
+    "generation_time": 0.32972216606140137,
+    "generated_sequences": [
+        "[\"Affective Computing\", \"Emotion Recognition\", \"Natural Language Processing\", \"Psycholinguistics\", \"Cognitive Psychology\", \"Human-Computer Interaction\", \"Linguistics\", \"Emotional Intelligence\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Affective Computing",
+        "Emotion Recognition",
+        "Natural Language Processing",
+        "Psycholinguistics",
+        "Cognitive Psychology",
+        "Human-Computer Interaction",
+        "Linguistics",
+        "Emotional Intelligence"
+    ]
+}

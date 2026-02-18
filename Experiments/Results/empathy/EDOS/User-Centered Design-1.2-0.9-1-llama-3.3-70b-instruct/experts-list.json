@@ -1,0 +1,20 @@
+{
+    "response_message": "[\"Natural Language Processing\", \"Emotion Recognition\", \"Linguistics\", \"Dialogue Analysis\", \"Machine Learning\", \"Affective Computing\", \"Psychology\", \"Computer Science\", \"Human-Computer Interaction\"]",
+    "generation_probability": "unknown",
+    "generation_time": 0.4620978832244873,
+    "generated_sequences": [
+        "[\"Natural Language Processing\", \"Emotion Recognition\", \"Linguistics\", \"Dialogue Analysis\", \"Machine Learning\", \"Affective Computing\", \"Psychology\", \"Computer Science\", \"Human-Computer Interaction\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Natural Language Processing",
+        "Emotion Recognition",
+        "Linguistics",
+        "Dialogue Analysis",
+        "Machine Learning",
+        "Affective Computing",
+        "Psychology",
+        "Computer Science",
+        "Human-Computer Interaction"
+    ]
+}

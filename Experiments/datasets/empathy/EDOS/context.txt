@@ -1,0 +1,1 @@
+These dialogues are sourced from the EDOS (Emotional Dialogues in OpenSubtitles) dataset. The dialogues are extracted from movie scripts and represent diverse emotional interactions. Each dialogue consists of 2-3 turns. Your goal is to identify the emotion of the LAST TURN in the dialogue, using the preceding turns as context to understand the nuance.

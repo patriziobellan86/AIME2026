@@ -1,0 +1,21 @@
+{
+    "response_message": "[\"Natural Language Processing (NLP)\", \"Machine Learning\", \"Psychology\", \"Emotion Recognition\", \"Human-Computer Interaction\", \"Affective Computing\", \"Speech Emotion Recognition\", \"Text Analysis\", \"Deep Learning\", \"Sentiment Analysis\"]",
+    "generation_probability": "unknown",
+    "generation_time": 0.39604806900024414,
+    "generated_sequences": [
+        "[\"Natural Language Processing (NLP)\", \"Machine Learning\", \"Psychology\", \"Emotion Recognition\", \"Human-Computer Interaction\", \"Affective Computing\", \"Speech Emotion Recognition\", \"Text Analysis\", \"Deep Learning\", \"Sentiment Analysis\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Natural Language Processing (NLP)",
+        "Machine Learning",
+        "Psychology",
+        "Emotion Recognition",
+        "Human-Computer Interaction",
+        "Affective Computing",
+        "Speech Emotion Recognition",
+        "Text Analysis",
+        "Deep Learning",
+        "Sentiment Analysis"
+    ]
+}

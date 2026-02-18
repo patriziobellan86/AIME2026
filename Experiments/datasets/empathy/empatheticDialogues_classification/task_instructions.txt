@@ -1,0 +1,3 @@
+Identify the emotion expressed in the speaker's statement.
+Select only one label from the following list:
+[afraid, angry, annoyed, anticipating, anxious, apprehensive, ashamed, caring, confident, confused, content, devastated, disappointed, disgusted, embarrassed, excited, faithful, furious, grateful, guilty, hopeful, impressive, jealous, joyful, lonely, nostalgic, prepared, proud, relieved, sad, sentimental, surprised].

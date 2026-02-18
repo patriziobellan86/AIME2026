@@ -1,0 +1,23 @@
+{
+    "response_message": "[\"natural language processing\", \"sentiment analysis\", \"psychological theories of emotion\", \"linguistics\", \"dialogue analysis\", \"contextual understanding\", \"emotion recognition\", \"behavioral psychology\", \"cognitive psychology\", \"film studies\", \"narrative analysis\", \"lexical semantics\"]\n",
+    "generation_probability": "unknown",
+    "generation_time": 1.6251976490020752,
+    "generated_sequences": [
+        "[\"natural language processing\", \"sentiment analysis\", \"psychological theories of emotion\", \"linguistics\", \"dialogue analysis\", \"contextual understanding\", \"emotion recognition\", \"behavioral psychology\", \"cognitive psychology\", \"film studies\", \"narrative analysis\", \"lexical semantics\"]\n"
+    ],
+    "probabilities": [],
+    "list": [
+        "natural language processing",
+        "sentiment analysis",
+        "psychological theories of emotion",
+        "linguistics",
+        "dialogue analysis",
+        "contextual understanding",
+        "emotion recognition",
+        "behavioral psychology",
+        "cognitive psychology",
+        "film studies",
+        "narrative analysis",
+        "lexical semantics"
+    ]
+}

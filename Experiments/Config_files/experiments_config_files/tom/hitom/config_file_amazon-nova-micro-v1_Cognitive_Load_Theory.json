@@ -1,0 +1,20 @@
+{
+    "name": "tom - hitom",
+    "task": "Read a story and answer the multiple-choice question.",
+    "context": "Theory of Mind. You should assume the following. (1) An agent witnesses everything and every\nmovements before exiting a room. (2) An agent A can infer another agent B’s mental state\nonly if A and B have been in the same room, or have private or public interactions. (3)\nNote that every agent tend to lie. What a character tells others doesn’t affect his actual\nbelief. An agent tend to trust a agent that exited the room later than himself. The exit\norder is known to all agents. (4) Agents in private communications know that others won’t\nhear them, but they know that anyone can hear any public claims.",
+    "description_framework": "Cognitive Load Theory",
+    "model": "amazon/nova-micro-v1",
+    "output_dir": "./Experiments/Results/tom/hitom",
+    "input": "./Experiments/datasets/tom/hitom/input.json",
+    "temperature": 1.2,
+    "nucleus": 0.9,
+    "alternatives": 1,
+    "resume": 1,
+    "cache_dir": "",
+    "max_experts_number": -1,
+    "baseline": false,
+    "token": "",
+    "openrouterfile": "./Experiments/Config_files/experiments_config_files/tom/hitom/openrouterconfig_amazon-nova-micro-v1_Cognitive_Load_Theory.json",
+    "dataset_type": "tom",
+    "dataset": "hitom"
+}

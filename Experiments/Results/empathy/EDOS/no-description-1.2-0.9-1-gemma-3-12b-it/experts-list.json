@@ -1,0 +1,26 @@
+{
+    "response_message": "```json\n[\"Computational Linguistics\", \"Natural Language Processing\", \"Sentiment Analysis\", \"Emotion Recognition\", \"Dialogue Analysis\", \"Psychology\", \"Film Studies\", \"Script Analysis\", \"Contextual Understanding\", \"Machine Learning\", \"Deep Learning\", \"Linguistic Semantics\", \"Pragmatics\", \"Social Psychology\", \"Affective Computing\"]\n```",
+    "generation_probability": "unknown",
+    "generation_time": 1.358612060546875,
+    "generated_sequences": [
+        "```json\n[\"Computational Linguistics\", \"Natural Language Processing\", \"Sentiment Analysis\", \"Emotion Recognition\", \"Dialogue Analysis\", \"Psychology\", \"Film Studies\", \"Script Analysis\", \"Contextual Understanding\", \"Machine Learning\", \"Deep Learning\", \"Linguistic Semantics\", \"Pragmatics\", \"Social Psychology\", \"Affective Computing\"]\n```"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Natural Language Processing",
+        "Sentiment Analysis",
+        "Emotion Recognition",
+        "Dialogue Analysis",
+        "Psychology",
+        "Film Studies",
+        "Script Analysis",
+        "Contextual Understanding",
+        "Machine Learning",
+        "Deep Learning",
+        "Linguistic Semantics",
+        "Pragmatics",
+        "Social Psychology",
+        "Affective Computing"
+    ]
+}

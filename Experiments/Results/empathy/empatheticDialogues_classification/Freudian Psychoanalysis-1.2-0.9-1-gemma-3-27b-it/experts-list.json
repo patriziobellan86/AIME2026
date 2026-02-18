@@ -1,0 +1,27 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Neuroscience\", \"Signal Processing\", \"Acoustic Analysis\", \"Statistical Modeling\", \"Machine Learning\", \"Data Mining\", \"Pattern Recognition\", \"Formal Logic\", \"Information Theory\", \"Digital Signal Processing\", \"Time Series Analysis\", \"Speech Recognition\", \"Natural Language Processing\", \"Quantitative Psychology (specifically psychometrics)\", \"Bioacoustics\"]",
+    "generation_probability": "unknown",
+    "generation_time": 1.9353058338165283,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Neuroscience\", \"Signal Processing\", \"Acoustic Analysis\", \"Statistical Modeling\", \"Machine Learning\", \"Data Mining\", \"Pattern Recognition\", \"Formal Logic\", \"Information Theory\", \"Digital Signal Processing\", \"Time Series Analysis\", \"Speech Recognition\", \"Natural Language Processing\", \"Quantitative Psychology (specifically psychometrics)\", \"Bioacoustics\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Neuroscience",
+        "Signal Processing",
+        "Acoustic Analysis",
+        "Statistical Modeling",
+        "Machine Learning",
+        "Data Mining",
+        "Pattern Recognition",
+        "Formal Logic",
+        "Information Theory",
+        "Digital Signal Processing",
+        "Time Series Analysis",
+        "Speech Recognition",
+        "Natural Language Processing",
+        "Quantitative Psychology (specifically psychometrics)",
+        "Bioacoustics"
+    ]
+}

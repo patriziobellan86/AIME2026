@@ -1,0 +1,26 @@
+{
+    "response_message": "[\"Affective Science\", \"Computational Linguistics\", \"Natural Language Processing\", \"Cognitive Psychology\", \"Cultural Psychology\", \"Neurolinguistics\", \"Machine Learning\", \"Statistical Modeling\", \"Corpus Linguistics\", \"Speech Analysis\", \"Physiological Signal Processing\", \"Experimental Design\", \"Bayesian Statistics\", \"Human-Computer Interaction\", \"Sociolinguistics\"]",
+    "generation_probability": "unknown",
+    "generation_time": 2.25162410736084,
+    "generated_sequences": [
+        "[\"Affective Science\", \"Computational Linguistics\", \"Natural Language Processing\", \"Cognitive Psychology\", \"Cultural Psychology\", \"Neurolinguistics\", \"Machine Learning\", \"Statistical Modeling\", \"Corpus Linguistics\", \"Speech Analysis\", \"Physiological Signal Processing\", \"Experimental Design\", \"Bayesian Statistics\", \"Human-Computer Interaction\", \"Sociolinguistics\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Affective Science",
+        "Computational Linguistics",
+        "Natural Language Processing",
+        "Cognitive Psychology",
+        "Cultural Psychology",
+        "Neurolinguistics",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Corpus Linguistics",
+        "Speech Analysis",
+        "Physiological Signal Processing",
+        "Experimental Design",
+        "Bayesian Statistics",
+        "Human-Computer Interaction",
+        "Sociolinguistics"
+    ]
+}

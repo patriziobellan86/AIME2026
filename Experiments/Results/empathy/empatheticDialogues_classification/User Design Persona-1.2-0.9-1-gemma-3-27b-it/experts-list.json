@@ -1,0 +1,21 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Psychology (Affective Science)\", \"Machine Learning (Natural Language Processing)\", \"Data Science (Statistical Analysis)\", \"Cognitive Science\", \"Sociolinguistics\", \"Speech Analysis (Acoustic Features)\", \"Human-Computer Interaction\", \"Neurolinguistics\", \"Subject Matter Expertise (Contextual Understanding)\"]",
+    "generation_probability": "unknown",
+    "generation_time": 1.9999608993530273,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Psychology (Affective Science)\", \"Machine Learning (Natural Language Processing)\", \"Data Science (Statistical Analysis)\", \"Cognitive Science\", \"Sociolinguistics\", \"Speech Analysis (Acoustic Features)\", \"Human-Computer Interaction\", \"Neurolinguistics\", \"Subject Matter Expertise (Contextual Understanding)\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Psychology (Affective Science)",
+        "Machine Learning (Natural Language Processing)",
+        "Data Science (Statistical Analysis)",
+        "Cognitive Science",
+        "Sociolinguistics",
+        "Speech Analysis (Acoustic Features)",
+        "Human-Computer Interaction",
+        "Neurolinguistics",
+        "Subject Matter Expertise (Contextual Understanding)"
+    ]
+}

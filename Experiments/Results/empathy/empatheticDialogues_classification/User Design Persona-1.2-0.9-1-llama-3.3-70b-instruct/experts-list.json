@@ -1,0 +1,22 @@
+{
+    "response_message": "[\"Psychology\", \"Linguistics\", \"Computer Science\", \"Machine Learning\", \"Natural Language Processing\", \"Affective Computing\", \"Emotion Annotation\", \"Sentiment Analysis\", \"Deep Learning\", \"Cognitive Science\", \"Artificial Intelligence\"]",
+    "generation_probability": "unknown",
+    "generation_time": 0.4569590091705322,
+    "generated_sequences": [
+        "[\"Psychology\", \"Linguistics\", \"Computer Science\", \"Machine Learning\", \"Natural Language Processing\", \"Affective Computing\", \"Emotion Annotation\", \"Sentiment Analysis\", \"Deep Learning\", \"Cognitive Science\", \"Artificial Intelligence\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Psychology",
+        "Linguistics",
+        "Computer Science",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Affective Computing",
+        "Emotion Annotation",
+        "Sentiment Analysis",
+        "Deep Learning",
+        "Cognitive Science",
+        "Artificial Intelligence"
+    ]
+}

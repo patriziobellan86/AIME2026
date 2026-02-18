@@ -1,0 +1,20 @@
+{
+    "name": "empathy - empatheticDialogues_classification",
+    "task": "Identify the emotion expressed in the speaker's statement.\nSelect only one label from the following list:\n[afraid, angry, annoyed, anticipating, anxious, apprehensive, ashamed, caring, confident, confused, content, devastated, disappointed, disgusted, embarrassed, excited, faithful, furious, grateful, guilty, hopeful, impressive, jealous, joyful, lonely, nostalgic, prepared, proud, relieved, sad, sentimental, surprised].",
+    "context": "Emotion Classification.\nGiven a situation and an opening utterance, identify the underlying emotion.\nPossible Labels: surprised, excited, angry, proud, sad, annoyed, grateful, lonely, afraid, terrified, guilty, impressed, disgusted, hopeful, confident, furious, anxious, anticipating, joyful, nostalgic, disappointed, prepared, jealous, content, devastated, embarrassed, caring, sentimental, trusting, ashamed, apprehensive, faithful",
+    "description_framework": "Flow Theory",
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "output_dir": "./Experiments/Results/empathy/empatheticDialogues_classification",
+    "input": "./Experiments/datasets/empathy/empatheticDialogues_classification/input.json",
+    "temperature": 1.2,
+    "nucleus": 0.9,
+    "alternatives": 1,
+    "resume": 1,
+    "cache_dir": "",
+    "max_experts_number": -1,
+    "baseline": false,
+    "token": "",
+    "openrouterfile": "./Experiments/Config_files/experiments_config_files/empathy/empatheticDialogues_classification/openrouterconfig_meta-llama-llama-3.3-70b-instruct_Flow_Theory.json",
+    "dataset_type": "empathy",
+    "dataset": "empatheticDialogues_classification"
+}

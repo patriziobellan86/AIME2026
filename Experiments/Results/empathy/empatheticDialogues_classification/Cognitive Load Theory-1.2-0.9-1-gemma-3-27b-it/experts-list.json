@@ -1,0 +1,21 @@
+{
+    "response_message": "[\"Affective Science\", \"Natural Language Processing\", \"Psycholinguistics\", \"Computational Statistics\", \"Behavioral Psychology\", \"Computational Linguistics\", \"Statistical Modeling\", \"Data Validation & Bias Detection\", \"Human-Computer Interaction\", \"Cognitive Science\"]",
+    "generation_probability": "unknown",
+    "generation_time": 1.3745357990264893,
+    "generated_sequences": [
+        "[\"Affective Science\", \"Natural Language Processing\", \"Psycholinguistics\", \"Computational Statistics\", \"Behavioral Psychology\", \"Computational Linguistics\", \"Statistical Modeling\", \"Data Validation & Bias Detection\", \"Human-Computer Interaction\", \"Cognitive Science\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Affective Science",
+        "Natural Language Processing",
+        "Psycholinguistics",
+        "Computational Statistics",
+        "Behavioral Psychology",
+        "Computational Linguistics",
+        "Statistical Modeling",
+        "Data Validation & Bias Detection",
+        "Human-Computer Interaction",
+        "Cognitive Science"
+    ]
+}

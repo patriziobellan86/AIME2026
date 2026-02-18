@@ -1,0 +1,20 @@
+{
+    "response_message": "[\"Affective Computing\", \"Sentiment Analysis\", \"Emotional Intelligence\", \"Natural Language Processing\", \"Machine Learning\", \"Psychology\", \"Linguistics\", \"Human-Computer Interaction\", \"Cognitive Architectures\"]",
+    "generation_probability": "unknown",
+    "generation_time": 0.41275882720947266,
+    "generated_sequences": [
+        "[\"Affective Computing\", \"Sentiment Analysis\", \"Emotional Intelligence\", \"Natural Language Processing\", \"Machine Learning\", \"Psychology\", \"Linguistics\", \"Human-Computer Interaction\", \"Cognitive Architectures\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Affective Computing",
+        "Sentiment Analysis",
+        "Emotional Intelligence",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Psychology",
+        "Linguistics",
+        "Human-Computer Interaction",
+        "Cognitive Architectures"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Natural Language Processing\", \"Psycholinguistics\", \"Emotion Recognition\", \"Dialogue Analysis\", \"Machine Learning\", \"Sentiment Analysis\", \"Cognitive Science\", \"Behavioral Psychology\", \"Film Studies\", \"Narrative Analysis\", \"Contextual Analysis\", \"Data Science\", \"Statistical Modeling\"]",
+    "generation_probability": "unknown",
+    "generation_time": 1.6927738189697266,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Natural Language Processing\", \"Psycholinguistics\", \"Emotion Recognition\", \"Dialogue Analysis\", \"Machine Learning\", \"Sentiment Analysis\", \"Cognitive Science\", \"Behavioral Psychology\", \"Film Studies\", \"Narrative Analysis\", \"Contextual Analysis\", \"Data Science\", \"Statistical Modeling\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Natural Language Processing",
+        "Psycholinguistics",
+        "Emotion Recognition",
+        "Dialogue Analysis",
+        "Machine Learning",
+        "Sentiment Analysis",
+        "Cognitive Science",
+        "Behavioral Psychology",
+        "Film Studies",
+        "Narrative Analysis",
+        "Contextual Analysis",
+        "Data Science",
+        "Statistical Modeling"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Sentiment Analysis\", \"Pragmatics\", \"Affective Science\", \"Appraisal Theory\", \"Bayesian Modeling\", \"Machine Learning\", \"Cognitive Psychology\", \"Neurobiology\", \"Cross-Cultural Psychology\", \"Behavioral Economics\", \"Statistical Analysis\", \"Textual Inference\", \"Psycholinguistics\", \"Nonverbal Communication\"]",
+    "generation_probability": "unknown",
+    "generation_time": 2.091346025466919,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Sentiment Analysis\", \"Pragmatics\", \"Affective Science\", \"Appraisal Theory\", \"Bayesian Modeling\", \"Machine Learning\", \"Cognitive Psychology\", \"Neurobiology\", \"Cross-Cultural Psychology\", \"Behavioral Economics\", \"Statistical Analysis\", \"Textual Inference\", \"Psycholinguistics\", \"Nonverbal Communication\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Sentiment Analysis",
+        "Pragmatics",
+        "Affective Science",
+        "Appraisal Theory",
+        "Bayesian Modeling",
+        "Machine Learning",
+        "Cognitive Psychology",
+        "Neurobiology",
+        "Cross-Cultural Psychology",
+        "Behavioral Economics",
+        "Statistical Analysis",
+        "Textual Inference",
+        "Psycholinguistics",
+        "Nonverbal Communication"
+    ]
+}

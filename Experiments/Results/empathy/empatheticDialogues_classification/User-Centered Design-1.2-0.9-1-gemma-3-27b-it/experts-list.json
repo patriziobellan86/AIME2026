@@ -1,0 +1,23 @@
+{
+    "response_message": "[\"Computational Linguistics (Sentiment Analysis)\", \"Affective Neuroscience (Facial Expression & Physiological Correlates)\", \"Psychology (Emotion Regulation & Social Cognition)\", \"Cultural Anthropology (Cross-Cultural Emotional Display Rules)\", \"Behavioral Analysis (Non-Verbal Communication)\", \"Psychobiography (Bias Detection in Labeling)\", \"Linguistic Analysis (Subtle Emotional Cues in Language)\", \"Statistics (Inter-Rater Reliability)\", \"Emotion Theory (Appraisal Theory, Ekman\u2019s Basic Emotions)\", \"Ethics (Emotion Recognition Technology & Privacy)\", \"Cognitive Psychology (Cognitive Distortions)\", \"Discourse Analysis (Contextual Understanding of Utterances)\"]",
+    "generation_probability": "unknown",
+    "generation_time": 4.306942939758301,
+    "generated_sequences": [
+        "[\"Computational Linguistics (Sentiment Analysis)\", \"Affective Neuroscience (Facial Expression & Physiological Correlates)\", \"Psychology (Emotion Regulation & Social Cognition)\", \"Cultural Anthropology (Cross-Cultural Emotional Display Rules)\", \"Behavioral Analysis (Non-Verbal Communication)\", \"Psychobiography (Bias Detection in Labeling)\", \"Linguistic Analysis (Subtle Emotional Cues in Language)\", \"Statistics (Inter-Rater Reliability)\", \"Emotion Theory (Appraisal Theory, Ekman\u2019s Basic Emotions)\", \"Ethics (Emotion Recognition Technology & Privacy)\", \"Cognitive Psychology (Cognitive Distortions)\", \"Discourse Analysis (Contextual Understanding of Utterances)\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics (Sentiment Analysis)",
+        "Affective Neuroscience (Facial Expression & Physiological Correlates)",
+        "Psychology (Emotion Regulation & Social Cognition)",
+        "Cultural Anthropology (Cross-Cultural Emotional Display Rules)",
+        "Behavioral Analysis (Non-Verbal Communication)",
+        "Psychobiography (Bias Detection in Labeling)",
+        "Linguistic Analysis (Subtle Emotional Cues in Language)",
+        "Statistics (Inter-Rater Reliability)",
+        "Emotion Theory (Appraisal Theory, Ekman\u2019s Basic Emotions)",
+        "Ethics (Emotion Recognition Technology & Privacy)",
+        "Cognitive Psychology (Cognitive Distortions)",
+        "Discourse Analysis (Contextual Understanding of Utterances)"
+    ]
+}

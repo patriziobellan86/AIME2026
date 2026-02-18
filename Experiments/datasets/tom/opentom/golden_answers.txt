@@ -1,0 +1,105 @@
+negative
+negative
+negative
+negative
+positive
+positive
+neutral
+positive
+positive
+neutral
+negative
+negative
+neutral
+positive
+neutral
+equally accessible
+less accessible
+less full
+less full
+more accessible
+more accessible
+more full
+less accessible
+less full
+more full
+more full
+more full
+equally full
+equally accessible
+equally full
+equally full
+more full
+less full
+equally full
+equally accessible
+more full
+more full
+equally full
+less accessible
+equally full
+less accessible
+equally full
+less accessible
+less accessible
+equally full
+No
+No
+Yes
+No
+No
+No
+No
+No
+Yes
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+No
+unappealing or unappetizing fridge container or bag
+crate
+the trash can
+a donation box
+bucket
+Matteo's own fridge
+bottle
+bathtub
+the trash can
+pantry
+bottle
+dining table center
+table center
+treasure_chest
+the trash bin
+the trash can
+Donovan's own kitchen counter
+Phoenix's own closet
+the dining table
+the trash bin
+Isabella's own kitchen counter
+the donation bin
+the coat closet
+the trash can
+the trash can
+a different closet
+Chair
+the trash bin
+grocery store salad bar
+Pantry

@@ -1,0 +1,20 @@
+{
+    "name": "empathy - EDOS",
+    "task": "Identify the emotion expressed in the final turn of the dialogue.\nChoose exactly ONE emotion from this list: Hopeful, Anticipating, Confident, Apprehensive, Impressed, Surprised, Angry, Caring, Ashamed, Excited, Devastated, Nostalgic, Sentimental, Annoyed, Prepared, Sad, Joyful, Proud, Anxious, Grateful, Furious, Embarrassed, Disappointed, Lonely, Terrified, Trusting, Disgusted, Content, Afraid, Guilty, Faithful, Jealous.\nProvide only the emotion name as your answer.",
+    "context": "These dialogues are sourced from the EDOS (Emotional Dialogues in OpenSubtitles) dataset. The dialogues are extracted from movie scripts and represent diverse emotional interactions. Each dialogue consists of 2-3 turns. Your goal is to identify the emotion of the LAST TURN in the dialogue, using the preceding turns as context to understand the nuance.",
+    "description_framework": "Dual-Process Theory",
+    "model": "google/gemma-3-12b-it",
+    "output_dir": "./Experiments/Results/empathy/EDOS",
+    "input": "./Experiments/datasets/empathy/EDOS/input.txt",
+    "temperature": 1.2,
+    "nucleus": 0.9,
+    "alternatives": 1,
+    "resume": 1,
+    "cache_dir": "",
+    "max_experts_number": -1,
+    "baseline": false,
+    "token": "",
+    "openrouterfile": "./Experiments/Config_files/experiments_config_files/empathy/EDOS/openrouterconfig_google-gemma-3-12b-it_Dual-Process_Theory.json",
+    "dataset_type": "empathy",
+    "dataset": "EDOS"
+}

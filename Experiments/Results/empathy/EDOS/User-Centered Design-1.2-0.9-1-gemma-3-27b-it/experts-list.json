@@ -1,0 +1,30 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Natural Language Processing\", \"Psychology\", \"Emotion Recognition\", \"Sentiment Analysis\", \"Dialogue Analysis\", \"Machine Learning\", \"Data Science\", \"Contextual Analysis\", \"Film Studies\", \"Narrative Theory\", \"Cognitive Science\", \"Subtle Cue Detection\", \"Behavioral Science\", \"Communication Studies\", \"Linguistics\", \"Semantic Analysis\", \"Pragmatics\", \"Affective Computing\"]",
+    "generation_probability": "unknown",
+    "generation_time": 2.3227407932281494,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Natural Language Processing\", \"Psychology\", \"Emotion Recognition\", \"Sentiment Analysis\", \"Dialogue Analysis\", \"Machine Learning\", \"Data Science\", \"Contextual Analysis\", \"Film Studies\", \"Narrative Theory\", \"Cognitive Science\", \"Subtle Cue Detection\", \"Behavioral Science\", \"Communication Studies\", \"Linguistics\", \"Semantic Analysis\", \"Pragmatics\", \"Affective Computing\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Natural Language Processing",
+        "Psychology",
+        "Emotion Recognition",
+        "Sentiment Analysis",
+        "Dialogue Analysis",
+        "Machine Learning",
+        "Data Science",
+        "Contextual Analysis",
+        "Film Studies",
+        "Narrative Theory",
+        "Cognitive Science",
+        "Subtle Cue Detection",
+        "Behavioral Science",
+        "Communication Studies",
+        "Linguistics",
+        "Semantic Analysis",
+        "Pragmatics",
+        "Affective Computing"
+    ]
+}

@@ -1,0 +1,3 @@
+Emotion Classification.
+Given a situation and an opening utterance, identify the underlying emotion.
+Possible Labels: surprised, excited, angry, proud, sad, annoyed, grateful, lonely, afraid, terrified, guilty, impressed, disgusted, hopeful, confident, furious, anxious, anticipating, joyful, nostalgic, disappointed, prepared, jealous, content, devastated, embarrassed, caring, sentimental, trusting, ashamed, apprehensive, faithful

@@ -1,0 +1,21 @@
+{
+    "name": "tom - opentom",
+    "task": "Read and comprehend\nthe following short story. Then,\nanswer the question that follows.",
+    "context": "modeling other’s mental state",
+    "description_framework": "no-description",
+    "model": "google/gemma-3-12b-it",
+    "output_dir": "./Experiments/Results/tom/opentom",
+    "input": "./Experiments/datasets/tom/opentom/input.json",
+    "temperature": 1.2,
+    "nucleus": 0.9,
+    "alternatives": 1,
+    "resume": 1,
+    "cache_dir": "",
+    "max_experts_number": -1,
+    "baseline": false,
+    "token": "",
+    "openrouterfile": "./Experiments/Config_files/experiments_config_files/tom/opentom/openrouterconfig_google-gemma-3-12b-it_no-description.json",
+    "dataset_type": "tom",
+    "dataset": "opentom",
+    "no-description": true
+}

@@ -1,0 +1,28 @@
+{
+    "response_message": "[\"linguistics\", \"psychology\", \"computational linguistics\", \"affective computing\", \"literary analysis\", \"cognitive psychology\", \"social psychology\", \"neuroscience\", \"speech analysis\", \"natural language processing\", \"semantics\", \"pragmatics\", \"rhetoric\", \"emotional psychology\", \"behavioral psychology\", \"cross-cultural psychology\", \"philosophy of emotion\"]",
+    "generation_probability": "unknown",
+    "generation_time": 3.02547025680542,
+    "generated_sequences": [
+        "[\"linguistics\", \"psychology\", \"computational linguistics\", \"affective computing\", \"literary analysis\", \"cognitive psychology\", \"social psychology\", \"neuroscience\", \"speech analysis\", \"natural language processing\", \"semantics\", \"pragmatics\", \"rhetoric\", \"emotional psychology\", \"behavioral psychology\", \"cross-cultural psychology\", \"philosophy of emotion\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "linguistics",
+        "psychology",
+        "computational linguistics",
+        "affective computing",
+        "literary analysis",
+        "cognitive psychology",
+        "social psychology",
+        "neuroscience",
+        "speech analysis",
+        "natural language processing",
+        "semantics",
+        "pragmatics",
+        "rhetoric",
+        "emotional psychology",
+        "behavioral psychology",
+        "cross-cultural psychology",
+        "philosophy of emotion"
+    ]
+}

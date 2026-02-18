@@ -1,0 +1,3 @@
+Identify the emotion expressed in the final turn of the dialogue.
+Choose exactly ONE emotion from this list: Hopeful, Anticipating, Confident, Apprehensive, Impressed, Surprised, Angry, Caring, Ashamed, Excited, Devastated, Nostalgic, Sentimental, Annoyed, Prepared, Sad, Joyful, Proud, Anxious, Grateful, Furious, Embarrassed, Disappointed, Lonely, Terrified, Trusting, Disgusted, Content, Afraid, Guilty, Faithful, Jealous.
+Provide only the emotion name as your answer.

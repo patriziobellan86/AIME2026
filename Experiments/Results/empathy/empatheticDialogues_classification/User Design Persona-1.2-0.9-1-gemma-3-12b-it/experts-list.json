@@ -1,0 +1,27 @@
+{
+    "response_message": "[\"Computational Linguistics\", \"Natural Language Processing (NLP)\", \"Sentiment Analysis\", \"Machine Learning (ML)\", \"Affective Computing\", \"Psychology (Emotion Theory)\", \"Data Annotation\", \"Lexical Semantics\", \"Pragmatics\", \"Speech Recognition\", \"Acoustic Analysis\", \"Text Mining\", \"Deep Learning\", \"Feature Engineering\", \"Statistical Modeling\", \"Human-Computer Interaction (HCI)\"]",
+    "generation_probability": "unknown",
+    "generation_time": 2.1847002506256104,
+    "generated_sequences": [
+        "[\"Computational Linguistics\", \"Natural Language Processing (NLP)\", \"Sentiment Analysis\", \"Machine Learning (ML)\", \"Affective Computing\", \"Psychology (Emotion Theory)\", \"Data Annotation\", \"Lexical Semantics\", \"Pragmatics\", \"Speech Recognition\", \"Acoustic Analysis\", \"Text Mining\", \"Deep Learning\", \"Feature Engineering\", \"Statistical Modeling\", \"Human-Computer Interaction (HCI)\"]"
+    ],
+    "probabilities": [],
+    "list": [
+        "Computational Linguistics",
+        "Natural Language Processing (NLP)",
+        "Sentiment Analysis",
+        "Machine Learning (ML)",
+        "Affective Computing",
+        "Psychology (Emotion Theory)",
+        "Data Annotation",
+        "Lexical Semantics",
+        "Pragmatics",
+        "Speech Recognition",
+        "Acoustic Analysis",
+        "Text Mining",
+        "Deep Learning",
+        "Feature Engineering",
+        "Statistical Modeling",
+        "Human-Computer Interaction (HCI)"
+    ]
+}
